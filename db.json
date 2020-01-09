@@ -1,14 +1,38 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Onibus 1",
+    "body": "000 | Nome-do.Onibus"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Onibus 2",
+    "body": "000 | Nome-do.Onibus"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Onibus 3",
+    "body": "000 | Nome-do.Onibus"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Onibus 4",
+    "body": "000 | Nome-do.Onibus"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Onibus 5",
+    "body": "000 | Nome-do.Onibus"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Onibus 6",
+    "body": "000 | Nome-do.Onibus"
+  },
+  ]
